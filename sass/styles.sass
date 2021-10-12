@@ -4,7 +4,7 @@
 @include reset
 
 #main-banner
-  background: linear-gradient( rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../img/office.jpg')
+  background: linear-gradient( rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../img/wallpaper.jpg')
   height: 85vh
   background-size: cover 
   background-position: center
@@ -23,15 +23,19 @@
     left: 0
     width: 100%
     padding: 1.5rem 2rem
-    background-color: $black
+    background-color: #2c3e50
     z-index: 10
+    font-size: 1.25rem
+    font-weight: bold
+    text-transform: uppercase
+    
 
     @include mobile
       padding: 1rem
 
     .brand
       color: $light-color
-      font-size: 2rem
+      font-size: 2rem 
       @include main-hover
 
     &-navbar
@@ -61,7 +65,7 @@
     align-items: center
     justify-content: center
     height: 100%
-
+    
     @include mobile
       text-align: center
       padding: 2rem
@@ -142,7 +146,7 @@
       width: 30%
       height: 415px
       margin: 0 2%
-      background-image: url('../img/job1.jpg')
+      background-image: url('../img/img1.jpg')
       position: relative
       cursor: pointer
       transition: .5s
@@ -175,16 +179,16 @@
           @include card-mobile
 
       #job2
-        background-image: url('../img/job2.jpg')
+        background-image: url('../img/img2.jpg')
 
       #job3
-        background-image: url('../img/job3.jpg')
+        background-image: url('../img/img3.jpg')
 
       #job4
-        background-image: url('../img/job4.jpg')
+        background-image: url('../img/img4.jpg')
 
       #job5
-        background-image: url('../img/job5.jpg')
+        background-image: url('../img/img5.jpg')
 
     .job-card-cover
       position: absolute
