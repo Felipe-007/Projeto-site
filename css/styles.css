@@ -266,10 +266,10 @@ li {
   }
 }
 .jobs-container .jobs-list .other-jobs-container #job2 {
-  background-image: url("../img/img2.jpg");
+  background-image: url(../img/img2.jpg);
 }
 .jobs-container .jobs-list .other-jobs-container #job3 {
-  background-image: url("../img/img3.jpg");
+  background-image: url(../img/img3.jpg);
 }
 .jobs-container .jobs-list .other-jobs-container #job4 {
   background-image: url("../img/img4.jpg");
