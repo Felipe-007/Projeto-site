@@ -225,7 +225,7 @@ li {
   width: 30%;
   height: 415px;
   margin: 0 2%;
-  background-image: url("../img/projeto1.jpg");
+  background-image: url("../img/projeto1.JPG");
   position: relative;
   cursor: pointer;
   transition: 0.5s;
@@ -266,7 +266,7 @@ li {
   }
 }
 .jobs-container .jobs-list .other-jobs-container #job2 {
-  background-image: url("../img/projeto2.jpg");
+  background-image: url("../img/projeto2.JPG");
 }
 .jobs-container .jobs-list .other-jobs-container #job3 {
   background-image: url("../img/projeto3.JPG");
