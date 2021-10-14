@@ -225,7 +225,7 @@ li {
   width: 30%;
   height: 415px;
   margin: 0 2%;
-  background: url("../img/img1.jpg");
+  background-image: url("../img/img1.JPG");
   position: relative;
   cursor: pointer;
   transition: 0.5s;
@@ -266,16 +266,16 @@ li {
   }
 }
 .jobs-container .jobs-list .other-jobs-container #job2 {
-  background: url("../img/img2.jpg");
+  background-image: url("../img/img2.JPG");
 }
 .jobs-container .jobs-list .other-jobs-container #job3 {
-  background: url("../img/img3.jpg");
+  background-image: url("../img/img3.JPG");
 }
 .jobs-container .jobs-list .other-jobs-container #job4 {
-  background: url("../img/img4.jpg");
+  background-image: url("../img/img4.JPG");
 }
 .jobs-container .jobs-list .other-jobs-container #job5 {
-  background: url("../img/img5.jpg");
+  background-image: url("../img/img5.jpg");
 }
 .jobs-container .jobs-list .job-card-cover {
   position: absolute;
