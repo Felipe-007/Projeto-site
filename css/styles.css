@@ -225,7 +225,7 @@ li {
   width: 30%;
   height: 415px;
   margin: 0 2%;
-  background-image: url("../img/job1.JPG");
+  background-image: url("../img/projeto1.jpg");
   position: relative;
   cursor: pointer;
   transition: 0.5s;
@@ -266,16 +266,16 @@ li {
   }
 }
 .jobs-container .jobs-list .other-jobs-container #job2 {
-  background-image: url("../img/job2.JPG");
+  background-image: url("../img/projeto2.jpg");
 }
 .jobs-container .jobs-list .other-jobs-container #job3 {
-  background-image: url("../img/job3.JPG");
+  background-image: url("../img/projeto3.JPG");
 }
 .jobs-container .jobs-list .other-jobs-container #job4 {
-  background-image: url("../img/job4.JPG");
+  background-image: url("../img/projeto4.JPG");
 }
 .jobs-container .jobs-list .other-jobs-container #job5 {
-  background-image: url("../img/job5.jpg");
+  background-image: url("../img/projeto5.JPG");
 }
 .jobs-container .jobs-list .job-card-cover {
   position: absolute;
